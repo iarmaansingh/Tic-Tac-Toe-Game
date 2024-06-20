@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-Take a break with a quick game of Tic Tac Toe!
+I just build it for fun. Give yourself a break and try it once 🤗🌟
 
 ## Description
 
