@@ -2,9 +2,7 @@
 
 I just build it for fun. Give yourself a break and try it once 🤗🌟
 
-## Description
-
-This is a simple implementation of the classic Tic Tac Toe game made using HTML, CSS, and JavaScript. Enjoy a fun and intuitive gameplay experience with a sleek design.
+You can play the game online at (https://take-a-break-play-game.netlify.app/).
 
 ## Features
 
