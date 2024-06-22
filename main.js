@@ -73,7 +73,7 @@ const checkWinner = () =>{
             disableBoxes();
         }
         // If count is 9 and no three boxes are matching (Draw)
-        else if(count == "9" && pos1Val != pos2Val && pos2Val !== pos3Val){
+        else if(count == "9"){
             score.innerText = `Draw`;
             score.classList.remove("hide");
         }
